@@ -15,7 +15,7 @@ To get this working, a few peripherals are required. The pins noted here are def
 
 Additionally, download the analogUartClasses.py and pico_functions_v1_1.py libraries to the RPi.
 # Operation
-Having installed the peripherals and their connections properly, the program should work out of the box. Try changing the potentiometer to see what happens!
+Having installed the peripherals and their connections properly, the program should work out of the box. Run asyncUart.py on your RPi. Try changing the potentiometer to see what happens!
 
 For more accurate readings, the potentiometer can be calibrated. Press the button, or connect the pin to V+ to initiate the calibration process. Turn the potentiometer all the way up and down, then put it back in the center. Press the button again and calibration is done.
 
