@@ -13,7 +13,7 @@ To get this working, a few peripherals are required. The pins noted here are def
 ![image](https://github.com/user-attachments/assets/1275b002-ab22-4535-8f77-f19bc2aad707)
 
 
-Additionally, download the uartRudder.py and pico_functions_v1_1.py libraries to the RPi.
+Additionally, download the analogUartClasses.py and pico_functions_v1_1.py libraries to the RPi.
 # Operation
 Having installed the peripherals and their connections properly, the program should work out of the box. Try changing the potentiometer to see what happens!
 
